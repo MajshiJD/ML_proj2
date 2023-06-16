@@ -1,2 +1,3 @@
 # ML_proj2
-Kleimy klastry
+Marketing campaigh analysys - clastering.
+
