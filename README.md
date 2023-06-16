@@ -1,3 +1,4 @@
 # ML_proj2
-Marketing campaigh analysys - clastering.
+https://www.kaggle.com/datasets/hariharanpavan/bank-marketing-dataset-analysis-classification
 
+Marketing campaigh analysys - clastering
